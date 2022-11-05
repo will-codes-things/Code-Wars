@@ -12,7 +12,7 @@
 // Champions League 	10
 // Copa del Rey 	5
 //
-// will_the_coder - October 30, 2022
+// will_the_coder - October 31, 2022
 //
 
 let laLigaGoals = 43;

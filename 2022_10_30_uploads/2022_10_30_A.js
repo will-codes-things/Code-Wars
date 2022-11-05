@@ -1,12 +1,9 @@
-// 8th kyu - Basic Training: Add item to an Array
-// https://www.codewars.com/kata/511f0fe64ae8683297000001/train/javascript
-// Add the value "codewars" to the websites array.
-// After your code executes the websites array should == ["codewars"]
+// 8th kyu - Reverse List Order
+// https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/train/javascript
+// 
+// In this kata you will create a function that takes in a list and returns a list with the reverse order.
 //
-// Will Gillette - August 30, 2022
+// will_the_coder - October 30, 2022
 //
 
-var websites = [];
-
-websites.push("codewars");
-console.log(websites);
+const reverseList = list => list.reverse();

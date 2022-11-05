@@ -3,7 +3,7 @@
 // Add the value "codewars" to the websites array.
 // After your code executes the websites array should == ["codewars"]
 //
-// Will Gillette - August 30, 2022
+// will_the_coder - August 30, 2022
 //
 
 var websites = [];
