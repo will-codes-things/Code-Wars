@@ -7,4 +7,10 @@
 //
 // will_the_coder - November 7, 2022
 //
+// ex: function addFive(num) {
+//   var total = num + 5
+//   return num
+//      }
+//
 
+const addFive = num => total = num + 5
