@@ -20,6 +20,4 @@
 // 
 // will_the_coder - November 15, 2022
 
-String.prototype.toAlternatingCase = function () {
-    return this.split("").map(a => a === a.toUpperCase()? a.toLowerCase(): a.toUpperCase()).join('')
-}
+const toCsvText = array => array.join('\n');
