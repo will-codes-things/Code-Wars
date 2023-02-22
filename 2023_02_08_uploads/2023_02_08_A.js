@@ -13,7 +13,7 @@
 // **************
 // corrected below
 // **************
-// will_the_coder - February 6, 2023
+// will_the_coder - February 8, 2023
 
 function mystery() {
     var results =
