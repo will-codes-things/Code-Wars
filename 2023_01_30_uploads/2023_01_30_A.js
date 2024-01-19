@@ -12,3 +12,21 @@
 //
 // will_the_coder - January 30, 2023
 
+const hotpo = function(n){
+    let count = 0;
+
+    if (n == 0) {
+        return 0;
+    }
+    
+    while (n > 1) {
+      if (n % 2) {
+        n = 3 * n + 1
+    } else {
+        n = n / 2
+    }
+      count++;
+    }
+    
+    return count;
+  }
