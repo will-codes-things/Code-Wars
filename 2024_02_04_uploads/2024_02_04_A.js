@@ -19,7 +19,7 @@
 // 
 // Note: All math operations will be: a (operation) b
 // 
-// will_the_coder - February 2, 2024
+// will_the_coder - February 4, 2024
 
 const add = (a, b) => a + b;
 const divide = (a, b) => a / b;
