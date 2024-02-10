@@ -26,3 +26,6 @@
 // 
 // will_the_coder - February 7, 2024
 
+function sum(numbers) {
+    return numbers.reduce((a, b) => a + b, 0);
+  }
